@@ -1,0 +1,14 @@
+# Project exclude paths
+/venv/
+/main.py
+/requirements.txt
+.idea/
+.keystore/
+TonTools.egg-info
+TonTools/Providers/__pycache__/
+TonTools/Contracts/__pycache__/
+dist/
+examples/Jetton/.keystore/
+TonTools/__pycache__/
+/test/
+/update.sh
